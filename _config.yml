@@ -1,0 +1,11 @@
+# Site settings
+title: Utility Portal Blog
+email: tyler@decipherinc.com
+description: "Welcome to the Decipher Utility Portal Blog. Here you will find articles on updates, features, discussions and more. "
+baseurl: "http://kb.decipherinc.com/up/blog/"
+url: "http://kb.decipherinc.com/up/blog/"
+github_username:  tysweezy
+
+# Build settings
+markdown: kramdown
+permalink: pretty
